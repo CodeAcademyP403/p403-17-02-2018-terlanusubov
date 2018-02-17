@@ -8,3 +8,5 @@
 
 ### Əlavə Tapşırıq
 - *Kompyuter random olaraq bir rəqəm seçir 1-lə 100 arasında. İstifadəçinin bu rəqəmi tapmağı üçün 7 şansı var. Hər dəfə istifadəçi bir rəqəm daxil edir. Rəqəm 1-lə 100 arasında olmalıdır, əks halda istifadəçiyə yenidən rəqəm daxil etməsi deyilir, lakin cəhd sayından çıxılmır. Əgər istifadəçinin daxil etdiyi rəqəm komputerin rəqəminə bərabərdirsə, ona "Təbriklər! Siz rəqəmi düzgün tapdınız deyilir!" və oyun bitir. Əks halda istifadəçiyə yazdığı rəqəmin komyuterin tutduğu rəqəmdən çox və ya az olduğu bildirilir və cəhd sayından 1 çıxılır. Bu proses istifadəçinin şansları bitənə qədər davam etməlidir.*
+
+*Sabaha qədər. Uğurlar.*
